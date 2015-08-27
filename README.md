@@ -1,5 +1,5 @@
 # haproxy
 HAPROXY
 
-Script to install & configure high availability, load-balancing proxy (web) servers.
+Script to install & configure linux High-Avaibility Reverse Proxy Load Balancers.
 Tested os is centos.
